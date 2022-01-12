@@ -12,10 +12,11 @@ public class Q2_Check_EvenOdd_number {
 
 
 
-            if ( 2 % num == 0) {
+            if (num % 2  == 0) {
 //            if (num % 2 == 0) {
                 System.out.println(num + " :number is even ");
-            } else {
+            }
+        else {
                 System.out.println(num + " :number is odd");
             }
 
