@@ -5,14 +5,15 @@ public class Q10_Reverse_a_String {
 
 // 		System.out.println("GfG!");
 		
-		String name = "geeksforgeeks";
+			String name = "geeksforgeeks";
 		String rev = "";
 	
-		for(int i = 0 ; i < name.length()- 1; i++){
+
+	for(int i = name.length() - 1; i >= 0; i--){
 		    rev += name.charAt(i);
 		    
 		}
-		System.out.println(rev + " is the reverse name of " + name);
 		
+		System.out.println(rev + " is the reverse name of " + name);
 	}
 }
