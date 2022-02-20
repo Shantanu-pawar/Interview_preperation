@@ -2,7 +2,7 @@ package Interview_Preperation.CommonQues;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class Q0_practiceMch_remove_Duplicate_elements {
+public class Q0_remove_Duplicate_elements {
     public static void main(String[] args) {
 //        remove all duplicate elements if any problem Reffer to smartProgramming
 
