@@ -2,6 +2,7 @@ package Interview_Preperation.CommonQues;
 
 public class Q17_count_Total_No_In_Char_inString {
 //    program-to-count-the-total-number-of-characters-in-a-string:
+    
 
     /*
     steps : 1. take 1 string
